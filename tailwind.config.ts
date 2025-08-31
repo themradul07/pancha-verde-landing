@@ -52,6 +52,11 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				wellness: {
+					light: 'hsl(var(--wellness-light))',
+					medium: 'hsl(var(--wellness-medium))',
+					accent: 'hsl(var(--wellness-accent))'
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
